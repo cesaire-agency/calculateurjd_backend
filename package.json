@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend calculateurJD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesaireaurelien/calculateurjd_backend.git"
+  },
+  "author": "cesaire ngaleu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesaireaurelien/calculateurjd_backend/issues"
+  },
+  "homepage": "https://github.com/cesaireaurelien/calculateurjd_backend#readme"
+}
